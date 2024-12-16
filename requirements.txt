@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+re
+sentence-transformers
+yake
+torch
+transformers
+scikit-learn
+numpy
